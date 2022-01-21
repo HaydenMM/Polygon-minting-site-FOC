@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x156Cb05E23EE4eD2915256C2269E71740D583673",
+  "SCAN_LINK": "https://polygonscan.com/address/0x156cb05e23ee4ed2915256c2269e71740d583673",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MAD Monkey Magazine NFT",
+  "SYMBOL": "MAD Monkey",
+  "MAX_SUPPLY": 410,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mad-monkey-nft",
+  "SHOW_BACKGROUND": false
+}

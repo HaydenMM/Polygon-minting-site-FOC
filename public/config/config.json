@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x32E5243f88d94c8102B3Add8f3DFf17459e1d930",
+  "SCAN_LINK": "https://polygonscan.com/address/0x32E5243f88d94c8102B3Add8f3DFf17459e1d930",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "FlowersOnChain",
+  "SYMBOL": "FOC",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 0,
+  "DISPLAY_COST": "0.00",
+  "GAS_LIMIT": 8000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/flowers-on-chain",
+  "SHOW_BACKGROUND": false
+}
